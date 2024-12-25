@@ -1,0 +1,20 @@
+.idea
+
+# Ignore binary files
+/bin/
+/obj/
+
+# Ignore vendor directory if you are not using vendoring
+/vendor/
+
+# Ignore IDE/editor specific files
+*.idea/
+*.vscode/
+*.swp
+*.swo
+
+# Ignore test binary
+*.test
+
+# Ignore coverage files
+*.out
