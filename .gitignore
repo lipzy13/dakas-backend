@@ -18,3 +18,6 @@
 
 # Ignore coverage files
 *.out
+
+# Ignore env
+*.env
